@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ICJPc10YhXjF9YEm1mHS4mA8XOYlQCw+3gPw9CmBtFg=",
+  "Source": "BBBankAPI",
+  "BasePath": "_content/BBBankAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

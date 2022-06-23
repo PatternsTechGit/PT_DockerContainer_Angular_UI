@@ -1,0 +1,187 @@
+{
+  "format": 1,
+  "restore": {
+    "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Services\\Services.csproj": {}
+  },
+  "projects": {
+    "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Entities\\Entities.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Entities\\Entities.csproj",
+        "projectName": "Entities",
+        "projectPath": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Entities\\Entities.csproj",
+        "packagesPath": "C:\\Users\\rajaa\\.nuget\\packages\\",
+        "outputPath": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Entities\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rajaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Infrastructure\\Infrastructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Infrastructure\\Infrastructure.csproj",
+        "projectName": "Infrastructure",
+        "projectPath": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Infrastructure\\Infrastructure.csproj",
+        "packagesPath": "C:\\Users\\rajaa\\.nuget\\packages\\",
+        "outputPath": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Infrastructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rajaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Entities\\Entities.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[6.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Services\\Services.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Services\\Services.csproj",
+        "projectName": "Services",
+        "projectPath": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Services\\Services.csproj",
+        "packagesPath": "C:\\Users\\rajaa\\.nuget\\packages\\",
+        "outputPath": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Services\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\rajaa\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Entities\\Entities.csproj": {
+                "projectPath": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Entities\\Entities.csproj"
+              },
+              "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Infrastructure\\Infrastructure.csproj": {
+                "projectPath": "D:\\source code\\PT_DockerContainer_API\\after\\BBBankAPI\\Infrastructure\\Infrastructure.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

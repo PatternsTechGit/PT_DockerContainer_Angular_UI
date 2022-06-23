@@ -1,0 +1,16 @@
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\BBBankAPI.exe
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\appsettings.Development.json
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\appsettings.json
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\BBBankAPI.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\BBBankAPI.deps.json
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\BBBankAPI.runtimeconfig.json
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\BBBankAPI.pdb
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\Microsoft.EntityFrameworkCore.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\Microsoft.Extensions.Caching.Memory.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\Entities.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\Infrastructure.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\Services.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\Services.pdb
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\Entities.pdb
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\BBBankAPI\bin\Release\net6.0\publish\Infrastructure.pdb

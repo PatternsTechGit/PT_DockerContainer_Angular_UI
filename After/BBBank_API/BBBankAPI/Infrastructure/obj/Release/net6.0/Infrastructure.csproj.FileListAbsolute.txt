@@ -1,0 +1,15 @@
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\bin\Release\net6.0\Infrastructure.deps.json
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\bin\Release\net6.0\Infrastructure.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\bin\Release\net6.0\Infrastructure.pdb
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\bin\Release\net6.0\Entities.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\bin\Release\net6.0\Entities.pdb
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\obj\Release\net6.0\Infrastructure.csproj.AssemblyReference.cache
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\obj\Release\net6.0\Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\obj\Release\net6.0\Infrastructure.AssemblyInfoInputs.cache
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\obj\Release\net6.0\Infrastructure.AssemblyInfo.cs
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\obj\Release\net6.0\Infrastructure.csproj.CoreCompileInputs.cache
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\obj\Release\net6.0\Infrastructure.csproj.CopyComplete
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\obj\Release\net6.0\Infrastructure.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\obj\Release\net6.0\refint\Infrastructure.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\obj\Release\net6.0\Infrastructure.pdb
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Infrastructure\obj\Release\net6.0\ref\Infrastructure.dll

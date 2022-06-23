@@ -1,0 +1,3 @@
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Entities\bin\Release\net6.0\publish\Entities.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Entities\bin\Release\net6.0\publish\Entities.deps.json
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Entities\bin\Release\net6.0\publish\Entities.pdb

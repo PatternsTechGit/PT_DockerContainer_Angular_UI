@@ -1,0 +1,17 @@
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Services.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Services.deps.json
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Services.pdb
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Microsoft.EntityFrameworkCore.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Microsoft.Extensions.Caching.Abstractions.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Microsoft.Extensions.Caching.Memory.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Microsoft.Extensions.DependencyInjection.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Microsoft.Extensions.Logging.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Microsoft.Extensions.Logging.Abstractions.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Microsoft.Extensions.Options.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Microsoft.Extensions.Primitives.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Entities.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Infrastructure.dll
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Entities.pdb
+D:\source code\PT_DockerContainer_API\after\BBBankAPI\Services\bin\Release\net6.0\publish\Infrastructure.pdb
