@@ -1,3 +1,5 @@
+![](/After/BBBank_API/assets/images/dui.png)
+
 # Containerize *Angular* WebApp using **Docker** 
 
 ### **What does Containerization mean?**
